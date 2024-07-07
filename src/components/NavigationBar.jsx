@@ -43,7 +43,7 @@ function NavigationBar() {
     };
 
     const url = "http://localhost:5000/process_data";
-
+    console.log(requestData)
     fetch(url, {
       method: "POST",
       headers: {
