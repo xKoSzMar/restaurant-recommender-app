@@ -6,7 +6,7 @@ function ListElement({ item }) {
 
   return (
     <>
-      <div className="text-lg">
+      <div className="text-lg flex-grow">
         <div className="flex items-center m-4">
           <h1 className="text-2xl font-bold p-2 mx-4">{item.name}</h1>
           <div className="flex items-center justify-center p-2 mx-4">
