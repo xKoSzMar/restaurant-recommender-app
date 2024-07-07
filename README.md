@@ -3,3 +3,5 @@
 This is restaurant recommender application frontend created using:
 >React
 >TailwindCSS
+
+new readme commit
