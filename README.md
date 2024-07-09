@@ -19,7 +19,7 @@ Backend server of this app was created using:
 
 -Python
 
-To run the frontend you should use:
+To run the backend you should use:
 
 >command
 
