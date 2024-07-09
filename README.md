@@ -17,7 +17,8 @@ Backend server of this app was created using:
 # Installation and running the app
 To run the app you shold install those apps(with recommended versions), which we used to build it:
 - Node.js (version v22.4.0) - https://nodejs.org/en/download/prebuilt-installer
-- python interpretter (v 3.11.1) - https://www.python.org/downloads/release/python-3111/
+- Python interpretter (v 3.11.1) - https://www.python.org/downloads/release/python-3111/
+- Visual Studio Code
 
 Libraries should be already preinstalled in code that you downlod from Github
 
